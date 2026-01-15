@@ -2,25 +2,25 @@
 
 ![download](https://github.com/user-attachments/assets/beb5ce63-e41a-486a-bf5d-c42d3679a5e2)
 
-#Project Overview
+# Project Overview
 
-##This project analyzes sales data to understand revenue trends, return behavior, promotion performance, and regional sales insights using SQL and Excel
+## This project analyzes sales data to understand revenue trends, return behavior, promotion performance, and regional sales insights using SQL and Excel
 
-#Business Problem
+# Business Problem
 
-##The business lacked clear visibility into revenue drivers, return rates, and promotion effectiveness, impacting decision-making.
+## The business lacked clear visibility into revenue drivers, return rates, and promotion effectiveness, impacting decision-making.
 
-#Business Goal
+# Business Goal
 
-##The goal was to understand what is driving revenue, where losses are happening (returns), and how promotions, regions, and people impact sales.
+## The goal was to understand what is driving revenue, where losses are happening (returns), and how promotions, regions, and people impact sales.
 
-#Dataset Information
+# Dataset Information
 
 1.OrderID, -RegionProduct, -Quantity-UnitPrice, -TotalPrice, -CustomerType, -Promotion, -Returned, -ShippingCost, -OrderDate, -DeliveryDate, -Salesperson, -PaymentMethod.
 
 2.Total records: 1,500
 
-##Tools & Technologies
+## Tools & Technologies
 
 1.MySQL
 
@@ -30,7 +30,7 @@
 
 4.Pivot Tables & Charts
 
-##Key KPIs
+## Key KPIs
 
 1.Total Revenue
 
@@ -42,7 +42,7 @@
 
 5.Average Delivery Time
 
-##Key Insights
+## Key Insights
 
 1.High return rate of 24.8% identified
 
@@ -52,7 +52,7 @@
 
 4.Sales show strong seasonality
 
-##Conclusion :
+## Conclusion :
 
 The business is generating strong revenue and stable order volume, but high return rates are impacting net profitability. Regions like North and promotion-based sales contribute most revenue but also cause higher returns. Optimizing promotions, improving delivery quality, and reducing returns can significantly improve net sales and operational efficiency.
 
