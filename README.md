@@ -1,5 +1,7 @@
 # Product-Sales-Performance-Analysis-using-SQL-and-EXCEL
+
 ![download](https://github.com/user-attachments/assets/beb5ce63-e41a-486a-bf5d-c42d3679a5e2)
+
 #Project Overview
 ##This project analyzes sales data to understand revenue trends, return behavior, promotion performance, and regional sales insights using SQL and Excel
 #Business Problem
